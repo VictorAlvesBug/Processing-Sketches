@@ -1,5 +1,5 @@
 Turtle turtle;
-boolean play = false;
+boolean play = true;
 int i=0;
 
 void setup()

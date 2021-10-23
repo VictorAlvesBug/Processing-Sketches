@@ -7,7 +7,7 @@ PVector walker;
 PVector[] walkerHist;
 int cont = 0;
 boolean finish = false;
-boolean play = false;
+boolean play = true;
 ArrayList<PVector> bestPath = new ArrayList<PVector>();
 boolean bestPathDefined = false;
 
